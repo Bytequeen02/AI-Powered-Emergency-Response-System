@@ -1,9 +1,9 @@
 streamlit
 scikit-learn
 joblib
-speechrecognition
-pyaudio
+SpeechRecognition
 geocoder
 requests
 python-dotenv
 twilio
+streamlit-webrtc
