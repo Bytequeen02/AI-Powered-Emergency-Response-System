@@ -7,3 +7,4 @@ requests
 python-dotenv
 twilio
 streamlit-webrtc
+pyttsx3
