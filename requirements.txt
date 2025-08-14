@@ -1,10 +1,12 @@
 streamlit
+streamlit-webrtc
 scikit-learn
 joblib
 SpeechRecognition
+pyaudio
 geocoder
 requests
 python-dotenv
 twilio
-streamlit-webrtc
 pyttsx3
+folium
